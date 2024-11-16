@@ -1,0 +1,17 @@
+# Virtual environment
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-selfcheck.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pipenv files
+*.lock
